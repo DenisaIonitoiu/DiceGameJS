@@ -1,4 +1,11 @@
 
+
+/*
+More rules added to the game:
+
+2. input field to the HTML where players can set the winning score, so that they can change the predefined score of 100
+3. another dice to the game added, so that there are two dices now. The player looses his current score when one of them is a 1
+*/
 var scores, roundScore, activePlayer, gamePlaying;
 
 init();
